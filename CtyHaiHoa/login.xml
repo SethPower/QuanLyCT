@@ -1,0 +1,10 @@
+<employee>
+<user>
+<username>thang</username>
+<password>123456</password>
+</user>
+  <user>
+    <username>trung</username>
+    <password>123456</password>
+  </user>
+</employee>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CtyHaiHoa>
+  <ten>Công ty Hài Hòa</ten>
+  <tgd>Nguyễn Văn A</tgd>
+  <ntl>26/12/1998</ntl>
+  <sgp>11</sgp>
+  <diachi>Duy Tân, Cầu Giấy</diachi>
+  <ghichu>AAAAAAAAAAAAAA</ghichu>
+  <ctycon>
+    <id_888502076>
+      <ten>HarmonyAT</ten>
+      <tgd>thắng</tgd>
+      <ntl>19/10/1997</ntl>
+      <sgp>1</sgp>
+      <diachi>Duy Tân</diachi>
+      <ghichu>z</ghichu>
+      <phongban>
+        <id_818091337>
+          <ten>v</ten>
+          <tentp>y</tentp>
+          <nhanvien>
+            <id_52314312>
+              <ten>Mai Tiến Thắng</ten>
+              <cmnd>111111</cmnd>
+              <tuoi>21</tuoi>
+              <chucvu>Coder</chucvu>
+              <luong>8000000</luong>
+              <nbd>20/11/2018</nbd>
+            </id_52314312>
+            <id_72353272>
+              <ten>Mai Tiến Thành</ten>
+              <cmnd>1111</cmnd>
+              <tuoi>24</tuoi>
+              <chucvu>Kỹ Thuật Viên</chucvu>
+              <luong>10000000</luong>
+              <nbd>14/11/2018</nbd>
+            </id_72353272>
+            <id_93455311>
+              <ten>Dương Ngọc Ánh</ten>
+              <cmnd>23441</cmnd>
+              <tuoi>24</tuoi>
+              <chucvu>Coder</chucvu>
+              <luong>1111111</luong>
+              <nbd>14/11/2018</nbd>
+            </id_93455311>
+            <id_705283128>
+              <ten>Nguyễn Thị Mai</ten>
+              <cmnd>121212</cmnd>
+              <tuoi>23</tuoi>
+              <chucvu>Đồ Họa</chucvu>
+              <luong>1111111</luong>
+              <nbd>11/11/2018</nbd>
+            </id_705283128>
+            <id_222912382>
+              <ten>Nguyễn Quốc Đạt</ten>
+              <cmnd>222222</cmnd>
+              <tuoi>23</tuoi>
+              <chucvu>Trưởng Phòng </chucvu>
+              <luong>10000000</luong>
+              <nbd>14/11/2018</nbd>
+            </id_222912382>
+            <id_94294819>
+              <ten>Hoàng Minh Trường</ten>
+              <cmnd>222333</cmnd>
+              <tuoi>24</tuoi>
+              <chucvu>Coder</chucvu>
+              <luong>11111111</luong>
+              <nbd>14/11/2018</nbd>
+            </id_94294819>
+            <id_109621868>
+              <ten>Nguyễn Văn A</ten>
+              <cmnd>1111</cmnd>
+              <tuoi>34</tuoi>
+              <chucvu>Coder</chucvu>
+              <luong>233333</luong>
+              <nbd>14/11/2018</nbd>
+            </id_109621868>
+            <id_619189760>
+              <ten>A</ten>
+              <cmnd>11111</cmnd>
+              <tuoi>12</tuoi>
+              <chucvu>Đồ Họa</chucvu>
+              <luong>111111</luong>
+              <nbd>11/12/1997</nbd>
+            </id_619189760>
+          </nhanvien>
+        </id_818091337>
+      </phongban>
+    </id_888502076>
+    <id_381256844>
+      <ten>a</ten>
+      <tgd>bb</tgd>
+      <ntl>30/12/2018</ntl>
+      <sgp>111</sgp>
+      <diachi>b</diachi>
+      <ghichu>aaa</ghichu>
+      <phongban></phongban>
+    </id_381256844>
+    <id_188877812>
+      <ten>HarmonySoft</ten>
+      <tgd>Nguyễn Văn B</tgd>
+      <ntl>11/12/1996</ntl>
+      <sgp>122121</sgp>
+      <diachi>Duy Tân, Cầu Giấy</diachi>
+      <ghichu>AA</ghichu>
+      <phongban></phongban>
+    </id_188877812>
+  </ctycon>
+</CtyHaiHoa>
